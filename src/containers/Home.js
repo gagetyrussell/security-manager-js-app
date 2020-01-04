@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div className="Home">
       <div className="lander">
-        <h1>storyteller</h1>
-        <p>Rebranding Data Quality & Reporting</p>
+        <h1>Intelligent Security Manager</h1>
+        <p>Intelligent Information Security Management Services</p>
       </div>
     </div>
   );

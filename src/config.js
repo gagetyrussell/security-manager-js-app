@@ -2,6 +2,10 @@ export default {
   MAX_ATTACHMENT_SIZE: 5000000,
   MGR_API_URL: "https://7teqpb3w39.execute-api.us-east-1.amazonaws.com/dev",
   LOCAL_MGR_API_URL: "http://localhost:5000/",
+  apiGateway: {
+    REGION: "us-east-1",
+    URL: "https://7teqpb3w39.execute-api.us-east-1.amazonaws.com/dev"
+  },
   cognito: {
     REGION: "us-east-1",
     USER_POOL_ID: "us-east-1_ci3WukOFZ",
